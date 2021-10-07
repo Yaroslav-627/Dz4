@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css2?family=Gemunu+Libre:wght@200&family=Roboto:wght@100&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&family=Gemunu+Libre:wght@200&family=Roboto:wght@100&display=swap');
+.Nav{
+    text-align: center;
+}
+a {
+    text-decoration-line: none;
+    margin-left: 12px;
+    color: black;
+}
+a:hover{
+    color: blue;
+}
+.t{
+    font-family: Roboto;
+    font-weight: 300;
+    font-size: 20px;
+}
+.f{
+    font-family: Roboto;
+    font-weight: 500;
+    font-size: 20px;
+}
+.s{
+    font-family: Roboto;
+    font-weight: 700;
+    font-size: 20px;
+}
+.ab{
+    font-family: Dancing Script;
+    font-size: 40px;
+    font-weight: 400;
+}
+.gr{
+    background-color: green;
+    display: inline-block;
+    width: 100px;
+    height: 100px;
+}
+.bl{
+    background-color: black;
+    display: inline-block;
+    width: 100px;
+    height: 100px;
+}
+.re{
+    background-color: red;
+    display: inline-block;
+    width: 100px;
+    height: 100px;
+}
